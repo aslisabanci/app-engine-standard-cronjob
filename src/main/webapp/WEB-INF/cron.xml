@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+    <cron>
+        <url>/hello</url>
+        <description>opencik test cron</description>
+        <schedule>every 336 hours</schedule>
+    </cron>
+</cronentries>
